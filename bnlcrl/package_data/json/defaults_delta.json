@@ -158,6 +158,6 @@
             "file_tag": "HREF",
             "post_url": "/cgi-bin/filter.pl"
         },
-        "server": "http://henke.lbl.gov"
+        "server": "https://henke.lbl.gov"
     }
 }
